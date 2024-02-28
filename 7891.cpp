@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int main1() {
     int a;
     std::cin >> a;
     for (int i = 0; i < a; i++) {
